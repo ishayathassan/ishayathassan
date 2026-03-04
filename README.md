@@ -1,27 +1,28 @@
 # Hi there! 👋 I'm Ishayat 
 
-I'm a Computer Science Engineering student at United International University, passionate about diving into the realms of Machine Learning, Deep Learning, and Artificial Intelligence. Currently on a journey of transforming data into meaningful insights and solutions.
+I'm a Computer Science Engineering graduate at United International University, passionate about diving into the realms of Machine Learning, Deep Learning, and Artificial Intelligence. Currently on a journey of transforming data into meaningful insights and solutions.
 
 ## 🚀 About Me
 
 - 🎓 Studying Computer Science Engineering at United International University.
-- 💻 Proficient in Python, and also skilled in C++, PHP, and JavaScript.
+- 💻 Proficient in Python, and also skilled in C++, and JavaScript.
 - 📚 Learning and exploring the exciting fields of Machine Learning and Deep Learning.
 - 🎓 Certified in Machine Learning Specialization by Andrew Ng.
 
 ## 🔧 Skills
 
-- **Languages:** Python, C++, PHP, JavaScript
-- **Web Development:** Django, Flask
-- **Machine Learning:** Tensorflow, keras, scikit-learn
+- **Languages:** Python, C++, Go, JavaScript, Java
+- **Web Development:** Django, Flask, FastAPI, Gin
+- **Machine Learning:** Pytorch, Keras
 - **Tools & Technologies:** Git, Selenium
 
 ## 🛠️ Projects
 
 1. **Pet a Paw** - A one-stop pet care solution website written in PHP.
-2. **DXBall Clone** - A DXBall game clone written in Pygame.
-3. **Instagram Scraper** - An Instagram scraper written in Selenium.
-4. **Library Management System** - A pure C project, part of my first-semester project.
+2. **Open Desk** - A social media platform for university students.
+3. **Hack Arena** - A competitive programming website like Codeforces.
+4. **Zerolyth** - A adventure game purely written in JavaFX
+5. **Library Management System** - A pure C project, part of my first-semester project.
 
 Feel free to explore my repositories for more details and code!
 
