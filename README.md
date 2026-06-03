@@ -24,29 +24,29 @@ CS graduate from **United International University** focused on **AI/ML systems*
 
 ## 🛠️ Projects
 
-### [ShopFlow](https://github.com/ishayathassan)
+### [ShopFlow](https://github.com/ishayathassan/ShopFlow)
 AI-powered e-commerce platform with microservices architecture, LangChain agent integration, and containerised Go backends.
-`Go` `Next.js` `Docker` `PostgreSQL`
+`Go` `Next.js` `LangChain` `FastAPI` `Docker` `PostgreSQL`
 
-### Hack Arena
+### [Orderly](https://github.com/ishayathassan/orderly)
+Production-grade Go microservices system with JWT auth, order management, Kong API gateway, and full observability via Prometheus and Grafana, orchestrated end-to-end with Docker Compose
+`Go` `Gin` `Kong` `Grafana` `Prometheus` `PostgreSQL` `Docker`
+
+### [Pet a Paw](https://github.com/ishayathassan/Pet-a-Paw)
+A one-stop pet care solution website.
+`Django` `Python`
+
+### [HackArena](https://github.com/ishayathassan/Hack-Arena)
 Competitive programming judge platform in the vein of Codeforces — problem sets, submissions, and live rankings.
-`Python` `Web`
+`Django` `Python` `Web`
 
-### Open Desk
+### [Open Desk](https://github.com/ishayathassan/Open-Desk)
 Social media platform built for university students — feeds, profiles, and community interaction.
-`JavaScript` `Web`
+`React` `Flask` `JS` `Python`
 
-### Zerolyth
+### [Zerolyth](https://github.com/ishayathassan/Zerolyth)
 Fully self-contained text adventure game written in JavaFX from scratch.
 `Java` `JavaFX`
-
-### Pet a Paw
-A one-stop pet care solution website.
-`PHP`
-
-### Library Management System
-Pure C project from first semester — file I/O, data structures, and CLI interface.
-`C`
 
 ---
 
