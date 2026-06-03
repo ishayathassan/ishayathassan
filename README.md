@@ -1,42 +1,62 @@
-# Hi there! 👋 I'm Ishayat 
+# Ishayat Hassan
 
-I'm a Computer Science Engineering graduate at United International University, passionate about diving into the realms of Machine Learning, Deep Learning, and Artificial Intelligence. Currently on a journey of transforming data into meaningful insights and solutions.
+**Researcher · Software Engineer**
+📍 Dhaka, Bangladesh · [LinkedIn](https://www.linkedin.com/in/ishayathassan/) · [ishayataronno.13@gmail.com](mailto:ishayataronno.13@gmail.com)
 
-## 🚀 About Me
+---
 
-- 🎓 Studying Computer Science Engineering at United International University.
-- 💻 Proficient in Python, and also skilled in C++, and JavaScript.
-- 📚 Learning and exploring the exciting fields of Machine Learning and Deep Learning.
-- 🎓 Certified in Machine Learning Specialization by Andrew Ng.
+CS graduate from **United International University** focused on **AI/ML systems** and **distributed backend engineering**. Builds production-grade microservices in Go and Python, and explores applied machine learning — from classical methods to deep learning. Currently developing **ShopFlow**, an AI-powered e-commerce platform with microservices architecture and LLM agent integration.
+
+---
 
 ## 🔧 Skills
 
-- **Languages:** Python, C++, Go, JavaScript, Java
-- **Web Development:** Django, Flask, FastAPI, Gin
-- **Machine Learning:** Pytorch, Keras
-- **Tools & Technologies:** Git, Selenium
+**Core languages**
+`Go · Gin` &nbsp; `Python · FastAPI · Flask · Django` &nbsp; `TypeScript · Next.js · React`
+
+**Machine learning & AI**
+`PyTorch` `Keras` `LangChain` `MCP agents` `Supervised learning` `Deep learning`
+
+**Infrastructure & tooling**
+`Docker` `AWS` `PostgreSQL` `JWT · Auth` `REST APIs` `Git` `Linux`
+
+---
 
 ## 🛠️ Projects
 
-1. **Pet a Paw** - A one-stop pet care solution website written in PHP.
-2. **Open Desk** - A social media platform for university students.
-3. **Hack Arena** - A competitive programming website like Codeforces.
-4. **Zerolyth** - A adventure game purely written in JavaFX
-5. **Library Management System** - A pure C project, part of my first-semester project.
+### [ShopFlow](https://github.com/ishayathassan)
+AI-powered e-commerce platform with microservices architecture, LangChain agent integration, and containerised Go backends.
+`Go` `Next.js` `Docker` `PostgreSQL`
 
-Feel free to explore my repositories for more details and code!
+### Hack Arena
+Competitive programming judge platform in the vein of Codeforces — problem sets, submissions, and live rankings.
+`Python` `Web`
 
-## 📚 Learning Journey
+### Open Desk
+Social media platform built for university students — feeds, profiles, and community interaction.
+`JavaScript` `Web`
 
-Currently focused on mastering the concepts of Machine Learning and Deep Learning. Recently completed the Machine Learning Specialization by Andrew Ng.
+### Zerolyth
+Fully self-contained text adventure game written in JavaFX from scratch.
+`Java` `JavaFX`
 
-## 🤝 Open to Collaboration
+### Pet a Paw
+A one-stop pet care solution website.
+`PHP`
 
-I'm open to teamwork and collaboration on exciting projects. If you have ideas or want to explore the world of AI together, feel free to reach out!
+### Library Management System
+Pure C project from first semester — file I/O, data structures, and CLI interface.
+`C`
 
-## 📫 Let's Connect
+---
 
-- **LinkedIn:** https://www.linkedin.com/in/ishayathassan/
-- **Email:** ishayataronno.13@gmail.com
+## 📚 Certifications
 
-Thanks for stopping by! 😊
+- **Machine Learning Specialization** — Andrew Ng · DeepLearning.AI · Coursera
+- **Introduction to LangChain - Python** — Langchain Academy
+
+---
+
+## 🤝 Open to collaboration
+
+Interested in AI systems, backend engineering, or anything at the intersection of the two — feel free to reach out!
